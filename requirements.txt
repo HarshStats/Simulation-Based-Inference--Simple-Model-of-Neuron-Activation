@@ -1,0 +1,6 @@
+numpy
+matplotlib
+bayesflow
+jupyter
+scikit-learn
+tensorflow

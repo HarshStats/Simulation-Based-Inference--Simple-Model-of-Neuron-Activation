@@ -1,0 +1,7 @@
+# This file tells git to ignore data, results, and Python cache files
+__pycache__/
+*.pyc
+data/
+results/
+.env
+*.ipynb_checkpoints/
