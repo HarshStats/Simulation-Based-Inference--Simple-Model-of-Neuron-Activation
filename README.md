@@ -17,6 +17,11 @@ This project implements and analyzes the LIF neuron model, simulates data, and u
 - Neuromatch Academy: LIF Model Tutorial
 - BayesFlow documentation
 
+## Misc
+- Clean jupyter notebooks
 
+pip install nbstripout
+nbstripout --install
 
-
+#### For exising cleanup
+git add --renormalize .
