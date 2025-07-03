@@ -4,3 +4,5 @@ bayesflow
 jupyter
 scikit-learn
 tensorflow
+jax
+jaxlib
