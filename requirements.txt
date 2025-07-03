@@ -4,3 +4,4 @@ bayesflow
 jupyter
 scikit-learn
 tensorflow
+nbstripout
